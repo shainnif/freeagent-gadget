@@ -1,8 +1,8 @@
 {
-  "name": "Gmail API Extension",
+  "name": "FreeAgent Integration",
   "version": "1.0",
   "manifest_version": 2,
-  "description": "Gmail API Extension",
+  "description": "FreeAgent Integration",
   "permissions": [
     "identity",
     "*://*.google.com/*"
@@ -12,7 +12,7 @@
   },
   "content_security_policy": "script-src https://*.google.com 'unsafe-eval'; object-src 'self'",
   "oauth2": {
-    "client_id": "<clientid>",
+    "client_id": "fgigelccpagmoomaomngdnlkfmbjhcda",
     "scopes": [
       "https://www.googleapis.com/auth/gmail.modify"
     ]

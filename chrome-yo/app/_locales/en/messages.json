@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "gFreeAgent",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "FreeAgent integration with Gmail and drive",
+    "description": "The description of the application"
+  }
+}
